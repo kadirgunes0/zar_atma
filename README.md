@@ -1,3 +1,3 @@
 # zarat
 
-A new Flutter project.
+Ekrandaki zara basarak zar atabilirsiniz.
