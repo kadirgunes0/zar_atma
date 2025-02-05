@@ -8,3 +8,6 @@ CMakeLists.txt linguist-vendored
 *.cpp linguist-vendored
 *.h linguist-vendored
 *.hpp linguist-vendored
+*.kt linguist-vendored
+*.kts linguist-vendored
+*.cc linguist-vendored
